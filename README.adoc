@@ -9,7 +9,7 @@ BeeClust swarming algorithm with Python's NumPy.
 
 == Zadání úkolu
 
-Vaším úkolem za 5 bodů je vytvořit třídu `BeeClust` v modulu `beeclust`: simulaci
+Vaším úkolem je vytvořit třídu `BeeClust` v modulu `beeclust`: simulaci
 shlukovacího algoritmu http://heikohamann.de/pub/schmickl_beeclust_2011.pdf[BeeClust].
 Tento algoritmus je založený na chování včel v přírodě a jejich rojení v místech s
 ideální teplotou (přibližně 32–38°C). Hlavní vlastností je, že včely jsou hloupé a
